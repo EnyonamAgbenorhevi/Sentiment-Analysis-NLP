@@ -84,4 +84,4 @@ This project is open-source and available under the  [MIT License](LICENSE). Fee
 
 We would like to express our gratitude to the open-source community and the developers of deep learning frameworks, NLP libraries, and Streamlit that make projects like this possible.
 
-Thank you for joining us on this exciting journey into the world of sentiment analysis with deep learning models and Gradio!
+Thank you for joining us on this exciting journey into the world of sentiment analysis with deep learning models and Streamlit!
