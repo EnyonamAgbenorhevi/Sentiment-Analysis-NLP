@@ -1,9 +1,9 @@
-@@ -1,2 +1,82 @@
+
 # Sentiment-Analysis-using-NLP
 Training Deep learning models to make sentiment predictions.
 # Sentiment-Analysis-using-NLP 👍 👎 ⚖️
 
-Welcome to the Sentiment Analysis project, where we explore the fascinating world of sentiment prediction using cutting-edge deep learning models and deploy them seamlessly using Gradio. Sentiment analysis, also known as opinion mining, is the process of determining the emotional tone or sentiment expressed in text data, whether it's positive, negative, or neutral.
+Welcome to the Sentiment Analysis project, where we explore the fascinating world of sentiment prediction using cutting-edge deep learning models and deploy them seamlessly using Streamlit. Sentiment analysis, also known as opinion mining, is the process of determining the emotional tone or sentiment expressed in text data, whether it's positive, negative, or neutral.
 
 [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 [![MIT licensed](https://img.shields.io/badge/license-mit-blue?style=for-the-badge&logo=appveyor)](./LICENSE)
@@ -27,13 +27,13 @@ Our sentiment analysis project offers the following key features:
 
 **Evaluation Metrics**: We evaluate model performance using various metrics, such as accuracy, F1 score, and more, to measure how effectively the models predict sentiment in text.
 
-**Deployment** **with Gradio** : Our project showcases the deployment of sentiment analysis models using Gradio, a user-friendly library for creating customizable UI interfaces for machine learning models. This allows you to interactively analyze sentiment in real-time with ease.
+**Deployment** **with Streamlit** : Our project showcases the deployment of sentiment analysis models using Streamlit, a user-friendly library for creating customizable UI interfaces for machine learning models. This allows you to interactively analyze sentiment in real-time with ease.
 
 ## Preview
 
 ## Getting Started
 
-To get started with sentiment analysis using deep learning models and Gradio, follow our comprehensive documentation and examples. We provide step-by-step instructions, code snippets, and resources to help you build, train, and deploy sentiment analysis solutions tailored to your needs.
+To get started with sentiment analysis using deep learning models and Streamlit, follow our comprehensive documentation and examples. We provide step-by-step instructions, code snippets, and resources to help you build, train, and deploy sentiment analysis solutions tailored to your needs.
 S
 ## Setup and Dependencies  🔧 🪛
 
@@ -41,14 +41,14 @@ To run this sentiment analysis project, you'll need to set up a Python environme
 
 **Create a Virtual Environment:**Navigate to your project directory and create a virtual environment.
 
-python -m venv venv
-A ctivate the environment as follows
-ven/Script/activate
+`python -m venv venv`
+Activate the environment as follows
+`ven/Script/activate` 
 
 **Installing Dependencies**
-After setting up your virtual environment or if you prefer to work in your local Python environment, you can install the required dependencies from the requirements.txt file.
+After setting up your virtual environment or if you prefer to work in your local Python environment, you can install the required dependencies from the requirements.txt file
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 This will install the necessary packages, including Pandas, Datasets, Scikit-Learn, Transformers, and other libraries required for the project.
 
