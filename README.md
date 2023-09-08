@@ -74,7 +74,7 @@ This project was developed during the Azubi Africa Data Science Training. Below 
 
 Here are a few recommended resources to help you gain a solid understanding of Huggingface:
 
-[Get started with Gradio](https://streamlit.app/getting_started/)
+[Get started with Streamlit](https://streamlit.app/getting_started/)
 
 ## License
 
